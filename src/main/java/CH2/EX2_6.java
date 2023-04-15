@@ -8,6 +8,11 @@ public class EX2_6 {
 
         System.out.printf("두자리 정수를 하나 입력해주세요.>");
         String input = scanner.nextLine();
-        // String 클래스를 인스턴트화 한 것이 input이고 input이 Scanner 클래스의 nextline()함수를 scanner를 통해 사용하는 것으로 선언
+        // String 클래스를 객체화 한것이 input, Scanner클래스의 nextLine함수를 input을 통해 사용함
+        int num = Integer.parseInt(input);
+        // Integer.parseInt는 입력받은 문자열을 int타입 값으로 변환 / 숫자가 아닌 문자 또는 기호, 공백을 입력하면 에러 발생
+        // float 타입 값으로 변환하려면 Float.parseFloat()을 사용해야함.
+        System.out.println("입력내용 :" +input);
+        System.out.printf("num=%d\n", num);
     }
 }
