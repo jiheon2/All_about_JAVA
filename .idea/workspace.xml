@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ce8e8d-a6d3-437f-ae8c-d2fb5f958034" name="Changes" comment="자바의정석 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_15.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH2/EX2_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +58,13 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX2_7">
-    <configuration name="EX2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_2" />
+  <component name="RunManager" selected="Application.EX2_13">
+    <configuration name="EX2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH2.EX2_10" />
       <module name="All_about_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_3" />
+    <configuration name="EX2_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH2.EX2_12" />
       <module name="All_about_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_4" />
+    <configuration name="EX2_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH2.EX2_13" />
       <module name="All_about_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_5" />
+    <configuration name="EX2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH2.EX2_8" />
       <module name="All_about_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_7" />
+    <configuration name="EX2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH2.EX2_9" />
       <module name="All_about_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX2_7" />
-        <item itemvalue="Application.EX2_5" />
-        <item itemvalue="Application.EX2_4" />
-        <item itemvalue="Application.EX2_3" />
-        <item itemvalue="Application.EX2_2" />
+        <item itemvalue="Application.EX2_13" />
+        <item itemvalue="Application.EX2_12" />
+        <item itemvalue="Application.EX2_10" />
+        <item itemvalue="Application.EX2_8" />
+        <item itemvalue="Application.EX2_9" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +149,12 @@
       <workItem from="1681383823935" duration="4981000" />
       <workItem from="1681475490541" duration="2932000" />
       <workItem from="1681798486946" duration="19000" />
-      <workItem from="1683076155327" duration="2357000" />
+      <workItem from="1683076155327" duration="2387000" />
+      <workItem from="1683177226042" duration="757000" />
+      <workItem from="1683521979661" duration="12000" />
+      <workItem from="1683795823231" duration="479000" />
+      <workItem from="1683796317089" duration="6048000" />
+      <workItem from="1683879383780" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="자바의정석 공부">
       <created>1681475549845</created>
@@ -158,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681543888049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="자바의정석 공부">
+      <created>1683113434456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683113434456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
