@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ce8e8d-a6d3-437f-ae8c-d2fb5f958034" name="Changes" comment="자바의정석 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH3/EX3_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH3/EX3_29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX3_28">
+  <component name="RunManager">
     <configuration name="EX2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH2.EX2_8" />
       <module name="All_about_JAVA" />
@@ -183,7 +183,7 @@
       <workItem from="1684938348330" duration="486000" />
       <workItem from="1685025904953" duration="307000" />
       <workItem from="1685026253329" duration="33000" />
-      <workItem from="1685281802811" duration="547000" />
+      <workItem from="1685281802811" duration="1363000" />
     </task>
     <task id="LOCAL-00001" summary="자바의정석 공부">
       <created>1681475549845</created>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685026207612</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="자바의정석 공부">
+      <created>1685282391806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685282391806</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
