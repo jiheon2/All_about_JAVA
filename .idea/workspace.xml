@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ce8e8d-a6d3-437f-ae8c-d2fb5f958034" name="Changes" comment="자바의정석 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH5/EX5_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,20 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX3_20">
-    <configuration name="EX2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH2.EX2_8" />
-      <module name="All_about_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CH2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="EX3_20" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH3.EX3_20" />
       <module name="All_about_JAVA" />
@@ -157,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX6_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH6.EX6_8" />
+      <module name="All_about_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CH6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX6_8" />
         <item itemvalue="Application.EX4_5" />
         <item itemvalue="Application.EX3_28" />
         <item itemvalue="Application.EX3_27" />
         <item itemvalue="Application.EX3_26" />
-        <item itemvalue="Application.EX2_8" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +193,8 @@
       <workItem from="1685855635080" duration="34000" />
       <workItem from="1685949064918" duration="37000" />
       <workItem from="1686036157031" duration="172000" />
+      <workItem from="1686066152385" duration="39000" />
+      <workItem from="1687010439266" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="자바의정석 공부">
       <created>1681475549845</created>
@@ -335,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686036202520</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="자바의정석 공부">
+      <created>1686066175201</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686066175201</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
