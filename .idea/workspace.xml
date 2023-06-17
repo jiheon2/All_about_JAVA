@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ce8e8d-a6d3-437f-ae8c-d2fb5f958034" name="Changes" comment="자바의정석 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,7 @@
       <workItem from="1685949064918" duration="37000" />
       <workItem from="1686036157031" duration="172000" />
       <workItem from="1686066152385" duration="39000" />
-      <workItem from="1687010439266" duration="757000" />
+      <workItem from="1687010439266" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="자바의정석 공부">
       <created>1681475549845</created>
@@ -336,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686066175201</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="자바의정석 공부">
+      <created>1687011295684</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687011295684</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
