@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ce8e8d-a6d3-437f-ae8c-d2fb5f958034" name="Changes" comment="자바의정석 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CH6/EX6_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.EX3_20">
     <configuration name="EX3_20" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH3.EX3_20" />
       <module name="All_about_JAVA" />
@@ -147,15 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EX6_8" />
-        <item itemvalue="Application.EX4_5" />
-        <item itemvalue="Application.EX3_28" />
-        <item itemvalue="Application.EX3_27" />
-        <item itemvalue="Application.EX3_26" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -193,6 +184,7 @@
       <workItem from="1686036157031" duration="172000" />
       <workItem from="1686066152385" duration="39000" />
       <workItem from="1687010439266" duration="864000" />
+      <workItem from="1687320226571" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="자바의정석 공부">
       <created>1681475549845</created>
